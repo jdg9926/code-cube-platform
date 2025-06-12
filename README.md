@@ -1,1 +1,1 @@
-# code-cube-platform
+# Code Cube Platform
